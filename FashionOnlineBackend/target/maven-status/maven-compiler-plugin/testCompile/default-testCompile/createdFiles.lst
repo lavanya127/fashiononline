@@ -1,0 +1,9 @@
+com\FashionBackend\AddressTestCase.class
+com\FashionBackend\AppTest.class
+com\FashionBackend\ContactTestCase.class
+com\FashionBackend\My_CartTestCase.class
+com\FashionBackend\ProductTestCase.class
+com\FashionBackend\SupplierTestCase.class
+com\FashionBackend\UserTestCase.class
+com\FashionBackend\OrderTableTestCase.class
+com\FashionBackend\CategoryTestCase.class
